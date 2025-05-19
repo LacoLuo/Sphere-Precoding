@@ -26,12 +26,12 @@ This is a Matlab code package related to the following article: "[Sphere Precodi
 **Plot results**
 - Run `merge.m` to combine the results of all user distributions.
 - Run `plot_results.m` to plot the SINR performance.
-<img src="outputs/figures/avg_SINR.jpg" width="600">
-<img src="outputs/figures/cdf_SINR.jpg" width="600">
+<img src="output/figures/avg_SINR.jpg" width="600">
+<img src="output/figures/cdf_SINR.jpg" width="600">
 
 - Run `plot_bf_gain.m` to plot the beamforming pattern.
-<img src="outputs/figures/bf_gain_zf.jpg" width="600">
-<img src="outputs/figures/bf_gain_sphere.jpg" width="600">
+<img src="output/figures/bf_gain_zf.jpg" width="600">
+<img src="output/figures/bf_gain_sphere.jpg" width="600">
 
 If you have any questions regarding the code, please contact [Hao Luo](mailto:h.luo@asu.edu).
 
